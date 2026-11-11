@@ -9,4 +9,4 @@
 - Contact: okpalachimaobi55@gmail.com
 
 ## Pages
-- [Home](https://YOURDOMAIN.com/): biography, skills, organization, Zerøbyte products, vision and FAQ
+- [Home](https://okpala-samuel-profile.vercel.app/): biography, skills, organization, Zerøbyte products, vision and FAQ
